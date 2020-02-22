@@ -1,0 +1,10 @@
+# Ignore Log Files
+/mysql/logs/*.log
+/nginx/logs/*.log
+
+# Ignore Macos 
+.DS_Store
+
+
+# src
+src/*
